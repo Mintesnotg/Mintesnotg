@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mintesnotg
+- 👋 Hi, I’m Mintesnot
 - 👀 I’m interested in Web developement 
 - 🌱 I’m currently learning DS and Algorithm,Design Principles
 - 💞️ I’m looking to collaborate on Web application developement
