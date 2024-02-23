@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mintesnot
-- 💻 I’m interested in Web app developement C# | .NET | python | Javascript |React
+- 👋 Hi, this is Mintesnot Girma 
+- 💻 interested in Web app developement C# | .NET | python | Javascript |React
 - 👀 Looking for new opportunties
 - 🌱 I’m currently learning DS and Algorithm,Design Principles,Software architecture,UI/UX designs 
 - 💞️ I’m looking for remote work any web app developement
