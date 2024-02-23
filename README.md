@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DS and Algorithm,Design Principles,Software architecture
 - 💞️ I’m looking for remote work in Web app developement
 - 📫 Reach me :- https://www.linkedin.com/in/mintesnot-girma-03b686182/
-- 🧔 Portfolio  :- https://mintesnotg.github.io/Minte19_github.io/#
+- 🧔 Portfolio  :-  https://mintesnotg.github.io/Minte/
 
 <!---
 Mintesnotg/Mintesnotg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
