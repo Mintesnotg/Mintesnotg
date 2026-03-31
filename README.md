@@ -8,7 +8,7 @@
 
 👀 Looking For: New opportunities in web application development and architectural design.
 
-📫 Connect with me: LinkedIn Profile
+📫 Connect with me: LinkedIn Profile https://www.linkedin.com/in/mintesnot-girma-03b686182/
 <!---
 Mintesnotg/Mintesnotg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
