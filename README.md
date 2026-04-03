@@ -4,9 +4,9 @@
 
 🚀 CMS Expertise: Experienced in developing custom modules and widgets for Sitefinity and WordPress.
 
-🌱 Current Focus: Deepening my knowledge in Data Structures & Algorithms, Software Architecture, and scalable design patterns.
+🌱 Current Focus:  Data Structures & Algorithms, Software Architecture, and scalable design patterns.
 
-👀 Looking For: New opportunities in web application development and architectural design.
+👀 Looking For: New opportunities in web application development.
 
 📫 Connect with me: LinkedIn Profile https://www.linkedin.com/in/mintesnot-girma-03b686182/
 <!---
