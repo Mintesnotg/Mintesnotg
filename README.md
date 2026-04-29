@@ -1,4 +1,4 @@
-💻 Tech Stack: Specialized in C#, .NET Core, Python, and JavaScript.
+💻 Tech Stack: Specialized in C#, .NET Core, and JavaScript.
 
 🎨 UI/UX & Frontend: Passionate about building responsive and modern user interfaces.
 
